@@ -1,4 +1,11 @@
 
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width:100%;
+    z-index: 1000;
+}
 
 header .wrapper{
     display: flex;
@@ -69,7 +76,7 @@ main .front-page {
     border-radius: 10px;
     height: 30px;
     align-items:  center;
-    max-width: 1000px;
+    max-width: 1050px;
     
 }
 
