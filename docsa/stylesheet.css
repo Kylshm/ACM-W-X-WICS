@@ -152,3 +152,52 @@ div.challenges-div div{
 }
 
 
+.journey-div {
+    background-color: rgba(237, 237, 237, 0.816);
+    margin: 50px 0px;
+    border-radius: 5px;
+    overflow: auto;
+    width: 80%;
+    padding-bottom: 50px;
+    margin: 10px 5px;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+div.journey-div div {
+    width: 30%;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 15px 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.usb-description, .usb-description p{
+    background-color: rgb(241, 221, 250);
+    color: black;
+}
+
+.learning-dashboard, .learning-dashboard p {
+    background-color: rgb(234, 229, 255);
+    color: black;
+}
+
+.multilingual-support, .multilingual-support p {
+    background-color: rgb(223, 254, 237);
+    color: black;
+}
+
+.site-footer{
+    text-align: center;
+}
+
+li, ul {
+    list-style: none;
+}
